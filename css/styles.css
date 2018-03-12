@@ -23,7 +23,7 @@
 address {
   font-size: 80%;
   margin: 0px;
-  color: #fff; }
+  mix-blend-mode: initial; }
 
 body {
   padding: 50px 0px 0px 0px;
